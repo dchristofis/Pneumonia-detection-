@@ -1,2 +1,2 @@
 # Pneumonia-detection-
-Pneumonia detection from images using CNN
+Pneumonia detection model from images using CNN
